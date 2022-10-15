@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/bin/Debug/net6.0/example010MethodArray
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/bin/Debug/net6.0/example010MethodArray.deps.json
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/bin/Debug/net6.0/example010MethodArray.runtimeconfig.json
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/bin/Debug/net6.0/example010MethodArray.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/bin/Debug/net6.0/example010MethodArray.pdb
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.AssemblyInfo.cs
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/refint/example010MethodArray.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.pdb
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/example010MethodArray.genruntimeconfig.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example010MethodArray/obj/Debug/net6.0/ref/example010MethodArray.dll

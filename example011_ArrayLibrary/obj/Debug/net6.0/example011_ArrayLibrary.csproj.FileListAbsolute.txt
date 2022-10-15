@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.deps.json
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.runtimeconfig.json
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.pdb
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.AssemblyInfo.cs
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/refint/example011_ArrayLibrary.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.pdb
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.genruntimeconfig.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example011_ArrayLibrary/obj/Debug/net6.0/ref/example011_ArrayLibrary.dll

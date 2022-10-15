@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.AssemblyInfo.cs
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/bin/Debug/net6.0/example009IntroArray
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/bin/Debug/net6.0/example009IntroArray.deps.json
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/bin/Debug/net6.0/example009IntroArray.runtimeconfig.json
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/bin/Debug/net6.0/example009IntroArray.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/bin/Debug/net6.0/example009IntroArray.pdb
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/refint/example009IntroArray.dll
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.pdb
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/example009IntroArray.genruntimeconfig.cache
+/Users/pavelvatsek/Desktop/Знакомство с языками программирования лекция 2/introduction-to-programming-languages-lecture-1/example009IntroArray/obj/Debug/net6.0/ref/example009IntroArray.dll
