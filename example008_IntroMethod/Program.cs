@@ -1,4 +1,4 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿int Max(int arg1, int arg2, int arg3) // функция нахождения максимального числа
 {
     int result = arg1;
     if (arg2 > result) result = arg2;
