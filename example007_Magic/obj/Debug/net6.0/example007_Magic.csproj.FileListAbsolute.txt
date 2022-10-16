@@ -1,0 +1,15 @@
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/bin/Debug/net6.0/example007_Magic
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/bin/Debug/net6.0/example007_Magic.deps.json
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/bin/Debug/net6.0/example007_Magic.runtimeconfig.json
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/bin/Debug/net6.0/example007_Magic.dll
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/bin/Debug/net6.0/example007_Magic.pdb
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.csproj.AssemblyReference.cache
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.AssemblyInfoInputs.cache
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.AssemblyInfo.cs
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.csproj.CoreCompileInputs.cache
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.dll
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/refint/example007_Magic.dll
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.pdb
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/example007_Magic.genruntimeconfig.cache
+/Users/pavelvatsek/Desktop/Gb/int-to-programming-languages-lectures/example007_Magic/obj/Debug/net6.0/ref/example007_Magic.dll
